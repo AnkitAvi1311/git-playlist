@@ -8,6 +8,9 @@
         },
         {
             "content" : "This is my first change after upload"
+        },
+        {
+            "content" : "if this works then it will mean i have learned the basics of how git works"
         }
     ]
 }
