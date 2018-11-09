@@ -1,0 +1,11 @@
+{
+  "name": "async_performance",
+  "version": "1.0.0",
+  "description": "This web site is for describing the async and performance nature of javascript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "me",
+  "license": "MIT"
+}
